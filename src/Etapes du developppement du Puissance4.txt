@@ -1,0 +1,30 @@
+Etapes du developppement du Puissance4
+
+
+Etape 1 : 2 joueurs humains
+Affichage de la grille textuelle vierge
+Affichage de la grille textuelle après qu'un joueur ait joué
+Réalisation des méthodes pour déterminer s'il y a un gagnant
+Refactoring du code + documentation
+=> 2 jours
+
+
+Etape 2 : 2 joueurs humains
+Mise en place d'une interface graphique
+Refactoring du code + documentation
+=> 2 jours
+
+Etape 3 :
+Création d'une version "Standalone"
+
+Etape 4 : 
+Mise en place des fonctionnalités (ouvrir une partie, enregistrer une partie, supprimer derniers coups...)
+Refactoring du code + documentation
+=> 2 jours
+
+Etape 5 : 
+Création d'une version "Réseau" pour le jeu textuel
+=> 1 jour
+
+Etape 6 : 1 joueur contre l'ordinateur
+Mise en place des choix de jeu de l'ordinateur  

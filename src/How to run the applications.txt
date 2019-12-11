@@ -1,0 +1,2 @@
+To run the textual game => run the class Game 
+To run the graphical game => run the class GameGraphical 
